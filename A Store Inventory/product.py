@@ -1,5 +1,5 @@
 """
-Python  Development Techdegree
+Python Development Techdegree
 Project 4 - A Store Inventory
 
 Author: Felix Andrew Sapalaran (felixandrewsapalaran@gmail.com)
