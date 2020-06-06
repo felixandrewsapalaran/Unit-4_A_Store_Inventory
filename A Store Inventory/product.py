@@ -1,3 +1,11 @@
+"""
+Python  Development Techdegree
+Project 4 - A Store Inventory
+
+Author: Felix Andrew Sapalaran (felixandrewsapalaran@gmail.com)
+---------------------------------------------------------------
+"""
+
 from peewee import *
 import csv
 from datetime import datetime
